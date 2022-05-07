@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sangodkarsanket
+- 👀 I’m interested in java developement
+- 🌱 I’m currently learning options chain methods to find market trend
+- 💞️ I’m looking to collaborate on any java development
+- 📫 Please send me email to sangodkar.sanket@gmail.com in case you find my profile suitable.
